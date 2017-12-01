@@ -1,0 +1,16 @@
+{
+  "name": "loading-animation",
+  "description": "A little module for pretty loading animation",
+  "keywords": [
+    "loading",
+    "load",
+    "animation",
+    "anim"
+  ],
+  "license": "MS-PL",
+  "main": "./anim.js",
+  "version": "0.0.0-a",
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
+}
